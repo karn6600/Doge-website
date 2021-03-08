@@ -1,7 +1,41 @@
-div,li,ul,h1{
-    color: rgb(59, 252, 0);
+
+
+div{
+    margin-top: 20px;
+    padding: 0px;
+    
 }
-{
-    div,style,body
-    size: 26px
+
+li{
+    margin: 15px;
+    color: rgb(126, 20, 197);
+    font-style: italic;
+    
+}
+
+button{
+    color: rgb(236, 76, 76);
+    background-position: inherit;
+    border-color: rgb(223, 233, 212);
+    background-color: rgb(255, 213, 28);
+    border-radius: 40px;
+}
+
+.links{
+
+    border: solid;
+    border-style: dashed;
+    border-radius: 50px;
+    margin-top: 50px;
+    width: 15%;
+    margin: inherit;
+    color: rgb(255, 0, 255);
+    
+}
+
+body{
+
+    background: url(img/doge.jpg) no-repeat;
+    background-size: 100%;
+   
 }
